@@ -1,1 +1,13 @@
 # Twitter_DATA_PIPELINE
+
+API Key
+ohvipncIrD09gxiBoJjNCgZLh
+
+API Key Secret
+4s9vjVQfHSurEP81EQMxrU118vjoQWozPbgWGnyfZUjAz2ywsn
+
+Access Token
+1696184255653752832-UeiT1zbPCXeSe8gQRdgcHyRB8upJ9y
+
+Access Token Secret
+hl81ceBqqUTPU60XAUVAPxipMVOyBSipIK9Q7KTp1q92A
